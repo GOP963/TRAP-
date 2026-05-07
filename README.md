@@ -1,4 +1,4 @@
-Here is a professional, high-quality GitHub `README.md` designed specifically for your project. It uses clean formatting, badges, and a structured layout to give it a "top-tier" open-source feel.
+
 
 ***
 
@@ -96,7 +96,3 @@ ngrok http 5000
 
 ***
 
-### How to use this:
-1.  Create a file named `README.md` in your project folder.
-2.  Copy and paste the text above into it.
-3.  (Optional) Add real screenshots into an `img` folder and update the image paths to make it even more visual!
